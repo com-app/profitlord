@@ -1,0 +1,17 @@
+
+.border-raduis {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+ }
+
+ .shadow-boxed{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.logo-img{
+ margin-left: 7em;
+ width: 160;
+ height: 80;
+
+  }
